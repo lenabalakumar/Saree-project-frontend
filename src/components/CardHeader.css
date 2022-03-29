@@ -1,0 +1,46 @@
+.Card-header-container {
+  display: flex;
+  width: 100%;
+  /* background-color: yellow; */
+  height: 15%;
+  flex-direction: row;
+}
+
+.Header-container {
+  /* background-color: orange; */
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+}
+
+.Header-image {
+  height: 30px;
+  width: 30px;
+  object-fit: cover;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+}
+
+.Header-content {
+  padding: 0px 10px 0px;
+  font-size: 14px;
+}
+
+.Header-left-container {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 10px 0px;
+  align-items: center;
+}
+
+.Header-right-container {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding: 0px 10px 0px;
+  width: 20%;
+}

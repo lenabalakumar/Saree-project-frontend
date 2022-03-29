@@ -1,0 +1,12 @@
+.Card-bottom-container {
+  width: 100%;
+  /* background-color: #ff2233; */
+  height: 70%;
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}

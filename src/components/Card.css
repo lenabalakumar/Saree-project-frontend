@@ -1,0 +1,7 @@
+.Card-container {
+  height: 300px;
+  width: 90%;
+  background-color: pink;
+  margin-top: 15px;
+  border-radius: 10px;
+}

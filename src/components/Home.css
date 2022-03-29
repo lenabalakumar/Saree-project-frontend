@@ -1,0 +1,11 @@
+.Home {
+  display: flex;
+  justify-content: center;
+  background-color: #ededed;
+}
+
+.Home-container {
+  width: 50%;
+  flex-direction: column;
+  background-color: #ffffff;
+}
